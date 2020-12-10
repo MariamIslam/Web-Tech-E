@@ -1,0 +1,29 @@
+body
+{
+	background:#196dff;
+	background-image: url("abc.png");
+	background-repeat: no-repeat;
+/*background: #196dff;*/
+
+
+
+}
+#Regtextbox{
+	
+	border: none;
+	outline: none;
+	background:none;
+	
+	border-bottom: 3px solid;
+	
+	
+	
+}
+#btn
+{
+	background: #196dff;
+	width:50%;
+	
+	color:white;
+	cursor: pointer;
+}

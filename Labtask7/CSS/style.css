@@ -1,0 +1,44 @@
+body
+{
+	background-image: url("WT.png");
+	
+/*background: #196dff;*/
+
+
+
+}
+#main {
+	width: 320px;
+	height: 420px;
+	background: #B0E0E6;
+	/*margin: 50px auto;*/
+	top: 50%;
+	left:50%;
+	position: absolute;
+	
+}
+#h
+{
+	margin:20;
+	padding:20;
+	color:#196dff;
+}
+#textbox{
+	
+	border: none;
+	outline: none;
+	background:none;
+	
+	border-bottom: 2px solid;
+	
+	
+	
+}
+#bt
+{
+	background: #196dff;
+	width:50%;
+	
+	color:white;
+	cursor: pointer;
+}
