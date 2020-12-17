@@ -1,0 +1,48 @@
+body
+{
+    margin: 0;
+	padding:0;
+	
+	background-image: url("iphone-6s-6-ochki-buk-noutbuk-glasses-beech-laptop-mac-macbo.jpg");
+	-webkit-background-size: cover;
+	background-size: cover;
+	font-family: Poppins;
+
+
+
+}
+#main {
+	width: 320px;
+	height: 420px;
+	background: none;
+	/*margin: 50px auto;*/
+	top: 50%;
+	left:50%;
+	position: absolute;
+	box-shadow: 8px 8px 50px #000;
+}
+#h
+{
+	margin:10;
+	padding:20;
+	color:#196dff;
+}
+#textbox{
+	
+	border: none;
+	outline: none;
+	background:none;
+	
+	border-bottom: 2px solid #0000ff;
+	
+	
+	
+}
+#bt
+{
+	background: #196dff;
+	width:50%;
+	
+	color:black;
+	cursor: pointer;
+}
